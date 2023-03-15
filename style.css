@@ -1,0 +1,37 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: rgb(187, 170, 149);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(./img/sea.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+p {
+    text-align: center;
+    text-indent: 1.5em;
+    width: 50em;
+    margin: auto;
+    margin-top: 20px;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+a>img{
+    width: 40px;
+}
+
+a.youtube {
+    margin-right: 10px;
+}
